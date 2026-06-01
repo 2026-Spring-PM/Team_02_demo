@@ -19,4 +19,4 @@ websockify --web=/usr/share/novnc 0.0.0.0:6080 localhost:5900 >/tmp/novnc.log 2>
 echo "PM Farm GUI is running."
 echo "Open http://localhost:6080/vnc.html in your browser."
 
-exec /app/program "$@"
+exec /app/build/main "$@"
