@@ -1,7 +1,7 @@
 # Team_02_demo
 
 ## Run
-본 데모 버전은 sfml 라이브러리를 사용하여 gui game을 구현하여 sfml이 설치되어있어야 합니다. 
+본 데모 버전은 sfml 라이브러리를 사용하여 gui game을 구현하여 sfml이 설치되어야 실행 가능합니다. 
 
 ### Ubuntu / Debian
 ```bash
