@@ -1,6 +1,23 @@
 # Team_02_demo
 
 ## Run
+본 데모 버전은 sfml 라이브러리를 사용하여 gui game을 구현하여 sfml이 설치되어있어야 합니다. 
+
+### Ubuntu / Debian
+```bash
+sudo apt update
+sudo apt install -y libsfml-dev
+```
+### macOS
+```bash
+brew install sfml
+```
+
+### Docker Container 내부
+```bash
+apt update
+apt install -y libsfml-dev
+```
 git repository에 대한 clone을 생성한 후 프로젝트 폴더로 이동합니다.
 ```bash
 git clone https://github.com/2026-Spring-PM/Team_02_demo.git
